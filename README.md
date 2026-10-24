@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 I'm currently pursuing my B.Sc. and learning Python, programming fundamentals, and Git & GitHub. I'm building my skills through regular practice and beginner-friendly projects.
 
-** 🛠️ Skills & Learning**
+ 🛠️ Skills & Learning
 
 - Python — Learning
 - Git & GitHub — Learning
@@ -32,4 +32,4 @@ To strengthen my programming skills and build practical projects through consist
 
 ---
 
-*Learning, building, and improving one step at a time.*
+Learning, building, and improving one step at a time.
